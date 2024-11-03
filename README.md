@@ -7,7 +7,7 @@ Education
 -Bachelor of Science in Information Technology
 
 Certifications 
-
+-https://courses.cognitiveclass.ai/certificates/822c9e20c4d549a38b8892b3b307c603#
 Skillsets 
 -Basic Java Programming
 -Front-End Developer
