@@ -18,10 +18,6 @@ Certifications:
 [Oracle OCI AI Foundations Associate] (https://catalog-education.oracle.com/ords/certview/sharebadge?id=99471FAD0FC60C294B8B29C9FBEB42EC2476D352DD116E916B61ED9F40E53F35)
 
 
-Skillsets 
--Basic Java Programming
--Front-End Developer
-
 
 
 <!--
