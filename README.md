@@ -4,7 +4,8 @@ Name
 - Aljun B. Dalman
 
 Education:
--Bachelor of Science in Information Technology
+
+Bachelor of Science in Information Technology
 
 Certifications:
 
