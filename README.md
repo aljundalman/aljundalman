@@ -12,7 +12,9 @@ Certifications:
 
 [Oracle Cloud Infrastructure Foundations Associate] (https://catalog-education.oracle.com/ords/certview/sharebadge?id=A887F877B5552C56552C3E6F600C2C800D0788C96D84A6AEF679A2CBE7CDDC9C)
 
-[Oracle Cloud Data Management Foundations Associate]
+[Oracle Cloud Data Management Foundations Associate] (https://catalog-education.oracle.com/ords/certview/sharebadge?id=A887F877B5552C56552C3E6F600C2C804BABD693AD471E769FCD937F1791BAEF)
+
+[] ()
 
 
 Skillsets 
