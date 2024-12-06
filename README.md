@@ -13,9 +13,9 @@ Certifications:
 
 [Oracle Cloud Infrastructure Foundations Associate] (https://catalog-education.oracle.com/ords/certview/sharebadge?id=A887F877B5552C56552C3E6F600C2C800D0788C96D84A6AEF679A2CBE7CDDC9C)
 
-[Oracle Cloud Data Management Foundations Associate] (https://catalog-education.oracle.com/ords/certview/sharebadge?id=A887F877B5552C56552C3E6F600C2C804BABD693AD471E769FCD937F1791BAEF)
+[Oracle Cloud Infastructure Data Management Foundations Associate] (https://catalog-education.oracle.com/ords/certview/sharebadge?id=A887F877B5552C56552C3E6F600C2C804BABD693AD471E769FCD937F1791BAEF)
 
-[Oracle OCI AI Foundations Associate] (https://catalog-education.oracle.com/ords/certview/sharebadge?id=99471FAD0FC60C294B8B29C9FBEB42EC2476D352DD116E916B61ED9F40E53F35)
+[Oracle Cloud Infastructure AI Foundations Associate] (https://catalog-education.oracle.com/ords/certview/sharebadge?id=99471FAD0FC60C294B8B29C9FBEB42EC2476D352DD116E916B61ED9F40E53F35)
 
 
 
