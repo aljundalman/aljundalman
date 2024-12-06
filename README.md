@@ -8,8 +8,10 @@ Education:
 
 Certifications:
 
-[Cognitive Class Certificate]-https://courses.cognitiveclass.ai/certificates/822c9e20c4d549a38b8892b3b307c603#
+[Cognitive Class Certificate] (https://courses.cognitiveclass.ai/certificates/822c9e20c4d549a38b8892b3b307c603#)
+
 [OCI Foundations Associate] (https://catalog-education.oracle.com/ords/certview/sharebadge?id=A887F877B5552C56552C3E6F600C2C800D0788C96D84A6AEF679A2CBE7CDDC9C)
+
 [OCI Foundations Associate]
 
 
