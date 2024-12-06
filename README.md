@@ -15,7 +15,7 @@ Certifications:
 
 [Oracle Cloud Data Management Foundations Associate] (https://catalog-education.oracle.com/ords/certview/sharebadge?id=A887F877B5552C56552C3E6F600C2C804BABD693AD471E769FCD937F1791BAEF)
 
-[] ()
+[Oracle OCI AI Foundations Associate] ()
 
 
 Skillsets 
