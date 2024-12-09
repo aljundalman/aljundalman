@@ -1,7 +1,6 @@
 ## Hi there I am Aljun B. Dalman👋
 
 ## Education:
-** College
 - Bachelor of Science in Information Technology
 
 ## Certifications:
