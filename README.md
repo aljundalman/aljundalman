@@ -1,11 +1,8 @@
-## Hi there 👋
+## Hi there I am Aljun B. Dalman👋
 
-Name 
-- Aljun B. Dalman
-
-Education:
-
-Bachelor of Science in Information Technology
+## Education:
+** College
+- Bachelor of Science in Information Technology
 
 ## Certifications:
 
